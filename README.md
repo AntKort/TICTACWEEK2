@@ -1,2 +1,2 @@
-# TICTACWEEK2
+# TictactoeW1
 Created with CodeSandbox
